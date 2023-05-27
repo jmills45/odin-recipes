@@ -1,0 +1,32 @@
+/* style.css */
+
+.images {
+    height: auto;
+    width: 600px;
+}
+
+.header {
+    width: 600px;
+    background-color: rgb(190, 190, 125);
+}
+
+.header-top {
+    text-align: center;
+}
+
+.list {
+    width: 525px;
+    background-color: rgb(247, 247, 184);
+}
+
+li {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.description {
+    width: 550px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(247, 247, 184);
+}
